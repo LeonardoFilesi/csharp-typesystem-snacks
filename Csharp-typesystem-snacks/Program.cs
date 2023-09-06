@@ -205,7 +205,7 @@ namespace Csharp_typesystem_snacks
                     snack10Array[j] = random.Next(1, 100);
                 }
 
-                Console.WriteLine($"Abbiamo {N} array, questo è il numero {i + 1}, composto da: ");
+                Console.WriteLine($"Abbiamo {N} array, questo è il numero {i + 1}, composto da: FINE ESERCIZIO");
             }
         }
     }
